@@ -1,0 +1,9 @@
+pan tool: spacebar
+rotation: shift+space
+zoom: ctrl+space
+flip canvas:M
+free hand selection:S (shift=add more)(alt=cut)
+(ctrl+T=transfrom)
+deselect:ctrl+D
+erease:E
+change size brush: shift+slide
